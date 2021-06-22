@@ -1,6 +1,17 @@
 # Release Notes
 
+<<<<<<< HEAD
 ## [Unreleased](https://github.com/laravel/laravel/compare/v8.5.20...8.x)
+=======
+## [Unreleased](https://github.com/laravel/laravel/compare/v6.20.1...6.x)
+
+
+## [v6.20.1 (2021-05-11)](https://github.com/laravel/laravel/compare/v6.20.0...v6.20.1)
+
+### Security
+- Target 1.16.15 of facade/ignition ([#5544](https://github.com/laravel/laravel/pull/5544))
+- Bump framework version to include SQL server security fix ([#5602](https://github.com/laravel/laravel/pull/5602))
+>>>>>>> ecf460a874e5943c1063ef9585bc7491ead15b0a
 
 
 ## [v8.5.20 (2021-06-15)](https://github.com/laravel/laravel/compare/v8.5.19...v8.5.20)
